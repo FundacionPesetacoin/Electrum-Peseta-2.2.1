@@ -1,0 +1,11 @@
+slowaes
+ecdsa>=0.9
+pbkdf2
+requests
+pyasn1
+pyasn1-modules
+qrcode
+SocksiPy-branch
+tlslite
+btcutils
+ltc_scrypt

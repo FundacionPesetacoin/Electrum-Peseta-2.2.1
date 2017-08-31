@@ -1,0 +1,17 @@
+# If you want electrum to appear in a linux app launcher ("start menu"), install this by doing:
+# sudo desktop-file-install electrum-peseta.desktop
+
+[Desktop Entry]
+Comment=Lightweight Pesetacoin Client
+Exec=electrum-peseta %u
+GenericName[en_US]=Electrum-PESETA
+GenericName=Electrum-PESETA
+Icon=/usr/share/app-install/icons/electrum-peseta.png
+Name[en_US]=Electrum Pesetacoin Wallet
+Name=Electrum Pesetacoin Wallet
+Categories=Network;
+StartupNotify=false
+Terminal=false
+Type=Application
+MimeType=x-scheme-handler/pesetacoin
+

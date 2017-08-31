@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Electrum-Peseta
+Version: 2.2.1
+Summary: Lightweight Pesetacoin Wallet
+Home-page: https://electrum.pesetacoin.info
+Author: Thomas Voegtlin
+Author-email: thomasv1@gmx.de
+License: GNU GPLv3
+Description: Lightweight Pesetacoin Wallet
+Platform: UNKNOWN
